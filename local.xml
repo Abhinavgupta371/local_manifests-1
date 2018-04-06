@@ -27,10 +27,10 @@
   <remove-project name="platform/hardware/qcom/power" />
   <remove-project name="android_system_bt" />
   <project name="LineageOS/android_hardware_ril" path="hardware/ril-caf" remote="github" revision="lineage-15.1" />
-  <project name="LineageOS/android_hardware_qcom_audio" path="hardware/qcom/audio-caf/msm8916" remote="github" revision="lineage-15.1" />
-  <project name="LineageOS/android_hardware_qcom_display" path="hardware/qcom/display-caf/msm8916" remote="github" revision="lineage-15.1" />
+  <project name="LineageOS/android_hardware_qcom_audio" path="hardware/qcom/audio-caf/msm8996" remote="github" revision="lineage-15.1-caf-8996" />
+  <project name="LineageOS/android_hardware_qcom_display" path="hardware/qcom/display-caf/msm8996" remote="github" revision="lineage-15.1-caf-8996" />
   <project name="LineageOS/android_hardware_qcom_keymaster" path="hardware/qcom/keymaster" remote="github" revision="lineage-15.1" />
-  <project name="LineageOS/android_hardware_qcom_media" path="hardware/qcom/media-caf/msm8916" remote="github" revision="8.1-caf-8916" />
+  <project name="LineageOS/android_hardware_qcom_media" path="hardware/qcom/media-caf/msm8996" remote="github" revision="lineage-15.1-caf-8996" />
   <project name="LineageOS/android_hardware_qcom_bt" path="hardware/qcom/bt-caf" remote="github" revision="lineage-15.1" />
 <!--  <project name="LineageOS/hardware_qcom_fm" path="hardware/qcom/fm" remote="github" revision="lineage-15.1" /> -->
   <project name="LineageOS/android_hardware_qcom_gps" path="hardware/qcom/gps" remote="github" revision="lineage-15.1" />
